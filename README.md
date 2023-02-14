@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/w41r70gidq7y4xpc/branch/main?svg=true)](https://ci.appveyor.com/project/bataltsevV/setupci/branch/main)
+
 
 ## Задача №1: настройка CI
 
